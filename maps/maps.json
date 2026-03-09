@@ -1,0 +1,1330 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-08T03:10:56.427Z",
+  "totalMaps": 189,
+  "maps": [
+    {
+      "id": "world",
+      "name": "World",
+      "filename": "world.svg",
+      "category": "world",
+      "size": 1237882
+    },
+    {
+      "id": "africa",
+      "name": "Africa",
+      "filename": "africa.svg",
+      "category": "continent",
+      "size": 217690
+    },
+    {
+      "id": "andorra",
+      "name": "Andorra",
+      "filename": "andorra.svg",
+      "category": "country",
+      "size": 15482
+    },
+    {
+      "id": "angola",
+      "name": "Angola",
+      "filename": "angola.svg",
+      "category": "country",
+      "size": 49366
+    },
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "filename": "argentina.svg",
+      "category": "country",
+      "size": 63035
+    },
+    {
+      "id": "armenia",
+      "name": "Armenia",
+      "filename": "armenia.svg",
+      "category": "country",
+      "size": 18220
+    },
+    {
+      "id": "australia",
+      "name": "Australia",
+      "filename": "australia.svg",
+      "category": "country",
+      "size": 29620
+    },
+    {
+      "id": "austria",
+      "name": "Austria",
+      "filename": "austria.svg",
+      "category": "country",
+      "size": 22126
+    },
+    {
+      "id": "azerbaijan",
+      "name": "Azerbaijan",
+      "filename": "azerbaijan.svg",
+      "category": "country",
+      "size": 164977
+    },
+    {
+      "id": "bahamas",
+      "name": "Bahamas",
+      "filename": "bahamas.svg",
+      "category": "country",
+      "size": 24456
+    },
+    {
+      "id": "bahrain",
+      "name": "Bahrain",
+      "filename": "bahrain.svg",
+      "category": "country",
+      "size": 26501
+    },
+    {
+      "id": "bangladesh",
+      "name": "Bangladesh",
+      "filename": "bangladesh.svg",
+      "category": "country",
+      "size": 45030
+    },
+    {
+      "id": "belarus",
+      "name": "Belarus",
+      "filename": "belarus.svg",
+      "category": "country",
+      "size": 43007
+    },
+    {
+      "id": "belgium",
+      "name": "Belgium",
+      "filename": "belgium.svg",
+      "category": "country",
+      "size": 17421
+    },
+    {
+      "id": "bhutan",
+      "name": "Bhutan",
+      "filename": "bhutan.svg",
+      "category": "country",
+      "size": 37463
+    },
+    {
+      "id": "bolivia",
+      "name": "Bolivia",
+      "filename": "bolivia.svg",
+      "category": "country",
+      "size": 13964
+    },
+    {
+      "id": "bosnia-herzegovina",
+      "name": "Bosnia and Herzegovina",
+      "filename": "bosnia-herzegovina.svg",
+      "category": "country",
+      "size": 22998
+    },
+    {
+      "id": "botswana",
+      "name": "Botswana",
+      "filename": "botswana.svg",
+      "category": "country",
+      "size": 13890
+    },
+    {
+      "id": "brazil",
+      "name": "Brazil",
+      "filename": "brazil.svg",
+      "category": "country",
+      "size": 65154
+    },
+    {
+      "id": "brunei",
+      "name": "Brunei Darussalam",
+      "filename": "brunei.svg",
+      "category": "country",
+      "size": 12460
+    },
+    {
+      "id": "bulgaria",
+      "name": "Bulgaria",
+      "filename": "bulgaria.svg",
+      "category": "country",
+      "size": 36274
+    },
+    {
+      "id": "burkina-faso",
+      "name": "Burkina Faso",
+      "filename": "burkina-faso.svg",
+      "category": "country",
+      "size": 24805
+    },
+    {
+      "id": "burundi",
+      "name": "Burundi",
+      "filename": "burundi.svg",
+      "category": "country",
+      "size": 54008
+    },
+    {
+      "id": "cambodia",
+      "name": "Cambodia",
+      "filename": "cambodia.svg",
+      "category": "country",
+      "size": 115394
+    },
+    {
+      "id": "cameroon",
+      "name": "Cameroon",
+      "filename": "cameroon.svg",
+      "category": "country",
+      "size": 47591
+    },
+    {
+      "id": "canada",
+      "name": "Canada",
+      "filename": "canada.svg",
+      "category": "country",
+      "size": 159429
+    },
+    {
+      "id": "cape-verde",
+      "name": "Cape Verde",
+      "filename": "cape-verde.svg",
+      "category": "country",
+      "size": 28360
+    },
+    {
+      "id": "central-african-republic",
+      "name": "Central African Republic",
+      "filename": "central-african-republic.svg",
+      "category": "country",
+      "size": 41643
+    },
+    {
+      "id": "chad",
+      "name": "Chad",
+      "filename": "chad.svg",
+      "category": "country",
+      "size": 20331
+    },
+    {
+      "id": "chile",
+      "name": "Chile",
+      "filename": "chile.svg",
+      "category": "country",
+      "size": 82405
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "filename": "china.svg",
+      "category": "country",
+      "size": 147637
+    },
+    {
+      "id": "colombia",
+      "name": "Colombia",
+      "filename": "colombia.svg",
+      "category": "country",
+      "size": 53803
+    },
+    {
+      "id": "congo",
+      "name": "Congo",
+      "filename": "congo.svg",
+      "category": "country",
+      "size": 43883
+    },
+    {
+      "id": "congo-dr",
+      "name": "Congo DR",
+      "filename": "congo-dr.svg",
+      "category": "country",
+      "size": 45867
+    },
+    {
+      "id": "costa-rica",
+      "name": "Costa Rica",
+      "filename": "costa-rica.svg",
+      "category": "country",
+      "size": 35476
+    },
+    {
+      "id": "croatia",
+      "name": "Croatia",
+      "filename": "croatia.svg",
+      "category": "country",
+      "size": 45950
+    },
+    {
+      "id": "cuba",
+      "name": "Cuba",
+      "filename": "cuba.svg",
+      "category": "country",
+      "size": 59794
+    },
+    {
+      "id": "cyprus",
+      "name": "Cyprus",
+      "filename": "cyprus.svg",
+      "category": "country",
+      "size": 13355
+    },
+    {
+      "id": "czech-republic",
+      "name": "Czech Republic",
+      "filename": "czech-republic.svg",
+      "category": "country",
+      "size": 29855
+    },
+    {
+      "id": "denmark",
+      "name": "Denmark",
+      "filename": "denmark.svg",
+      "category": "country",
+      "size": 57742
+    },
+    {
+      "id": "djibouti",
+      "name": "Djibouti",
+      "filename": "djibouti.svg",
+      "category": "country",
+      "size": 10387
+    },
+    {
+      "id": "dominican-republic",
+      "name": "Dominican Republic",
+      "filename": "dominican-republic.svg",
+      "category": "country",
+      "size": 52047
+    },
+    {
+      "id": "ecuador",
+      "name": "Ecuador",
+      "filename": "ecuador.svg",
+      "category": "country",
+      "size": 37176
+    },
+    {
+      "id": "egypt",
+      "name": "Egypt",
+      "filename": "egypt.svg",
+      "category": "country",
+      "size": 84261
+    },
+    {
+      "id": "el-salvador",
+      "name": "El Salvador",
+      "filename": "el-salvador.svg",
+      "category": "country",
+      "size": 41560
+    },
+    {
+      "id": "estonia",
+      "name": "Estonia",
+      "filename": "estonia.svg",
+      "category": "country",
+      "size": 69919
+    },
+    {
+      "id": "ethiopia",
+      "name": "Ethiopia",
+      "filename": "ethiopia.svg",
+      "category": "country",
+      "size": 66100
+    },
+    {
+      "id": "finland",
+      "name": "Finland",
+      "filename": "finland.svg",
+      "category": "country",
+      "size": 128983
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "filename": "france.svg",
+      "category": "country",
+      "size": 46695
+    },
+    {
+      "id": "georgia",
+      "name": "Georgia",
+      "filename": "georgia.svg",
+      "category": "country",
+      "size": 55620
+    },
+    {
+      "id": "germany",
+      "name": "Germany",
+      "filename": "germany.svg",
+      "category": "country",
+      "size": 68242
+    },
+    {
+      "id": "greece",
+      "name": "Greece",
+      "filename": "greece.svg",
+      "category": "country",
+      "size": 80636
+    },
+    {
+      "id": "guatemala",
+      "name": "Guatemala",
+      "filename": "guatemala.svg",
+      "category": "country",
+      "size": 40221
+    },
+    {
+      "id": "guinea",
+      "name": "Guinea",
+      "filename": "guinea.svg",
+      "category": "country",
+      "size": 32038
+    },
+    {
+      "id": "haiti",
+      "name": "Haiti",
+      "filename": "haiti.svg",
+      "category": "country",
+      "size": 13792
+    },
+    {
+      "id": "honduras",
+      "name": "Honduras",
+      "filename": "honduras.svg",
+      "category": "country",
+      "size": 56437
+    },
+    {
+      "id": "hungary",
+      "name": "Hungary",
+      "filename": "hungary.svg",
+      "category": "country",
+      "size": 52518
+    },
+    {
+      "id": "iceland",
+      "name": "Iceland",
+      "filename": "iceland.svg",
+      "category": "country",
+      "size": 51102
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "filename": "india.svg",
+      "category": "country",
+      "size": 177449
+    },
+    {
+      "id": "indonesia",
+      "name": "Indonesia",
+      "filename": "indonesia.svg",
+      "category": "country",
+      "size": 121864
+    },
+    {
+      "id": "iran",
+      "name": "Iran",
+      "filename": "iran.svg",
+      "category": "country",
+      "size": 68728
+    },
+    {
+      "id": "iraq",
+      "name": "Iraq",
+      "filename": "iraq.svg",
+      "category": "country",
+      "size": 53779
+    },
+    {
+      "id": "ireland",
+      "name": "Ireland",
+      "filename": "ireland.svg",
+      "category": "country",
+      "size": 163735
+    },
+    {
+      "id": "israel",
+      "name": "Israel",
+      "filename": "israel.svg",
+      "category": "country",
+      "size": 21126
+    },
+    {
+      "id": "italy",
+      "name": "Italy",
+      "filename": "italy.svg",
+      "category": "country",
+      "size": 51374
+    },
+    {
+      "id": "ivory-coast",
+      "name": "Ivory Coast",
+      "filename": "ivory-coast.svg",
+      "category": "country",
+      "size": 70969
+    },
+    {
+      "id": "jamaica",
+      "name": "Jamaica",
+      "filename": "jamaica.svg",
+      "category": "country",
+      "size": 11509
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "filename": "japan.svg",
+      "category": "country",
+      "size": 65119
+    },
+    {
+      "id": "kazakhstan",
+      "name": "Kazakhstan",
+      "filename": "kazakhstan.svg",
+      "category": "country",
+      "size": 66524
+    },
+    {
+      "id": "kenya",
+      "name": "Kenya",
+      "filename": "kenya.svg",
+      "category": "country",
+      "size": 98899
+    },
+    {
+      "id": "kosovo",
+      "name": "Kosovo",
+      "filename": "kosovo.svg",
+      "category": "country",
+      "size": 18735
+    },
+    {
+      "id": "kyrgyzstan",
+      "name": "Kyrgyzstan",
+      "filename": "kyrgyzstan.svg",
+      "category": "country",
+      "size": 27854
+    },
+    {
+      "id": "laos",
+      "name": "Laos",
+      "filename": "laos.svg",
+      "category": "country",
+      "size": 41271
+    },
+    {
+      "id": "latvia",
+      "name": "Latvia",
+      "filename": "latvia.svg",
+      "category": "country",
+      "size": 115653
+    },
+    {
+      "id": "liechtenstein",
+      "name": "Liechtenstein",
+      "filename": "liechtenstein.svg",
+      "category": "country",
+      "size": 23868
+    },
+    {
+      "id": "lithuania",
+      "name": "Lithuania",
+      "filename": "lithuania.svg",
+      "category": "country",
+      "size": 39084
+    },
+    {
+      "id": "luxembourg",
+      "name": "Luxembourg",
+      "filename": "luxembourg.svg",
+      "category": "country",
+      "size": 20878
+    },
+    {
+      "id": "macedonia",
+      "name": "Macedonia",
+      "filename": "macedonia.svg",
+      "category": "country",
+      "size": 65470
+    },
+    {
+      "id": "malaysia",
+      "name": "Malaysia",
+      "filename": "malaysia.svg",
+      "category": "country",
+      "size": 63743
+    },
+    {
+      "id": "mali",
+      "name": "Mali",
+      "filename": "mali.svg",
+      "category": "country",
+      "size": 27336
+    },
+    {
+      "id": "malta",
+      "name": "Malta",
+      "filename": "malta.svg",
+      "category": "country",
+      "size": 11370
+    },
+    {
+      "id": "mexico",
+      "name": "Mexico",
+      "filename": "mexico.svg",
+      "category": "country",
+      "size": 74240
+    },
+    {
+      "id": "moldova",
+      "name": "Moldova",
+      "filename": "moldova.svg",
+      "category": "country",
+      "size": 34042
+    },
+    {
+      "id": "montenegro",
+      "name": "Montenegro",
+      "filename": "montenegro.svg",
+      "category": "country",
+      "size": 28441
+    },
+    {
+      "id": "morocco",
+      "name": "Morocco",
+      "filename": "morocco.svg",
+      "category": "country",
+      "size": 38579
+    },
+    {
+      "id": "mozambique",
+      "name": "Mozambique",
+      "filename": "mozambique.svg",
+      "category": "country",
+      "size": 64768
+    },
+    {
+      "id": "myanmar",
+      "name": "Myanmar",
+      "filename": "myanmar.svg",
+      "category": "country",
+      "size": 111867
+    },
+    {
+      "id": "namibia",
+      "name": "Namibia",
+      "filename": "namibia.svg",
+      "category": "country",
+      "size": 45544
+    },
+    {
+      "id": "nepal",
+      "name": "Nepal",
+      "filename": "nepal.svg",
+      "category": "country",
+      "size": 24123
+    },
+    {
+      "id": "netherlands",
+      "name": "Netherlands",
+      "filename": "netherlands.svg",
+      "category": "country",
+      "size": 68701
+    },
+    {
+      "id": "new-zealand",
+      "name": "New Zealand",
+      "filename": "new-zealand.svg",
+      "category": "country",
+      "size": 57379
+    },
+    {
+      "id": "nicaragua",
+      "name": "Nicaragua",
+      "filename": "nicaragua.svg",
+      "category": "country",
+      "size": 51019
+    },
+    {
+      "id": "nigeria",
+      "name": "Nigeria",
+      "filename": "nigeria.svg",
+      "category": "country",
+      "size": 66435
+    },
+    {
+      "id": "norway",
+      "name": "Norway",
+      "filename": "norway.svg",
+      "category": "country",
+      "size": 234452
+    },
+    {
+      "id": "oman",
+      "name": "Oman",
+      "filename": "oman.svg",
+      "category": "country",
+      "size": 50825
+    },
+    {
+      "id": "pakistan",
+      "name": "Pakistan",
+      "filename": "pakistan.svg",
+      "category": "country",
+      "size": 22898
+    },
+    {
+      "id": "panama",
+      "name": "Panama",
+      "filename": "panama.svg",
+      "category": "country",
+      "size": 41452
+    },
+    {
+      "id": "paraguay",
+      "name": "Paraguay",
+      "filename": "paraguay.svg",
+      "category": "country",
+      "size": 49097
+    },
+    {
+      "id": "peru",
+      "name": "Peru",
+      "filename": "peru.svg",
+      "category": "country",
+      "size": 55442
+    },
+    {
+      "id": "philippines",
+      "name": "Philippines",
+      "filename": "philippines.svg",
+      "category": "country",
+      "size": 99946
+    },
+    {
+      "id": "poland",
+      "name": "Poland",
+      "filename": "poland.svg",
+      "category": "country",
+      "size": 28975
+    },
+    {
+      "id": "portugal",
+      "name": "Portugal",
+      "filename": "portugal.svg",
+      "category": "country",
+      "size": 31198
+    },
+    {
+      "id": "puerto-rico",
+      "name": "Puerto Rico",
+      "filename": "puerto-rico.svg",
+      "category": "country",
+      "size": 256671
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar",
+      "filename": "qatar.svg",
+      "category": "country",
+      "size": 19569
+    },
+    {
+      "id": "romania",
+      "name": "Romania",
+      "filename": "romania.svg",
+      "category": "country",
+      "size": 134633
+    },
+    {
+      "id": "russia",
+      "name": "Russia",
+      "filename": "russia.svg",
+      "category": "country",
+      "size": 287073
+    },
+    {
+      "id": "rwanda",
+      "name": "Rwanda",
+      "filename": "rwanda.svg",
+      "category": "country",
+      "size": 10786
+    },
+    {
+      "id": "san-marino",
+      "name": "San Marino",
+      "filename": "san-marino.svg",
+      "category": "country",
+      "size": 16774
+    },
+    {
+      "id": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "filename": "saudi-arabia.svg",
+      "category": "country",
+      "size": 29061
+    },
+    {
+      "id": "serbia",
+      "name": "Serbia",
+      "filename": "serbia.svg",
+      "category": "country",
+      "size": 38858
+    },
+    {
+      "id": "sierra-leone",
+      "name": "Sierra Leone",
+      "filename": "sierra-leone.svg",
+      "category": "country",
+      "size": 16505
+    },
+    {
+      "id": "singapore",
+      "name": "Singapore",
+      "filename": "singapore.svg",
+      "category": "country",
+      "size": 38958
+    },
+    {
+      "id": "slovakia",
+      "name": "Slovakia",
+      "filename": "slovakia.svg",
+      "category": "country",
+      "size": 31943
+    },
+    {
+      "id": "slovenia",
+      "name": "Slovenia",
+      "filename": "slovenia.svg",
+      "category": "country",
+      "size": 36209
+    },
+    {
+      "id": "south-africa",
+      "name": "South Africa",
+      "filename": "south-africa.svg",
+      "category": "country",
+      "size": 40666
+    },
+    {
+      "id": "south-korea",
+      "name": "South Korea",
+      "filename": "south-korea.svg",
+      "category": "country",
+      "size": 81109
+    },
+    {
+      "id": "spain",
+      "name": "Spain",
+      "filename": "spain.svg",
+      "category": "country",
+      "size": 58627
+    },
+    {
+      "id": "sri-lanka",
+      "name": "Sri Lanka",
+      "filename": "sri-lanka.svg",
+      "category": "country",
+      "size": 57948
+    },
+    {
+      "id": "sudan",
+      "name": "Sudan",
+      "filename": "sudan.svg",
+      "category": "country",
+      "size": 48807
+    },
+    {
+      "id": "sweden",
+      "name": "Sweden",
+      "filename": "sweden.svg",
+      "category": "country",
+      "size": 54681
+    },
+    {
+      "id": "switzerland",
+      "name": "Switzerland",
+      "filename": "switzerland.svg",
+      "category": "country",
+      "size": 143609
+    },
+    {
+      "id": "syria",
+      "name": "Syria",
+      "filename": "syria.svg",
+      "category": "country",
+      "size": 20784
+    },
+    {
+      "id": "taiwan",
+      "name": "Taiwan",
+      "filename": "taiwan.svg",
+      "category": "country",
+      "size": 62745
+    },
+    {
+      "id": "tajikistan",
+      "name": "Tajikistan",
+      "filename": "tajikistan.svg",
+      "category": "country",
+      "size": 40051
+    },
+    {
+      "id": "thailand",
+      "name": "Thailand",
+      "filename": "thailand.svg",
+      "category": "country",
+      "size": 160890
+    },
+    {
+      "id": "turkey",
+      "name": "Turkey",
+      "filename": "turkey.svg",
+      "category": "country",
+      "size": 128014
+    },
+    {
+      "id": "uganda",
+      "name": "Uganda",
+      "filename": "uganda.svg",
+      "category": "country",
+      "size": 63611
+    },
+    {
+      "id": "ukraine",
+      "name": "Ukraine",
+      "filename": "ukraine.svg",
+      "category": "country",
+      "size": 112551
+    },
+    {
+      "id": "united-arab-emirates",
+      "name": "United Arab Emirates",
+      "filename": "united-arab-emirates.svg",
+      "category": "country",
+      "size": 43585
+    },
+    {
+      "id": "united-kingdom",
+      "name": "United Kingdom",
+      "filename": "united-kingdom.svg",
+      "category": "country",
+      "size": 747651
+    },
+    {
+      "id": "united-kingdom-counties",
+      "name": "United Kingdom Counties",
+      "filename": "united-kingdom-counties.svg",
+      "category": "country",
+      "size": 162281
+    },
+    {
+      "id": "uruguay",
+      "name": "Uruguay",
+      "filename": "uruguay.svg",
+      "category": "country",
+      "size": 45579
+    },
+    {
+      "id": "usa",
+      "name": "USA",
+      "filename": "usa.svg",
+      "category": "country",
+      "size": 127415
+    },
+    {
+      "id": "uzbekistan",
+      "name": "Uzbekistan",
+      "filename": "uzbekistan.svg",
+      "category": "country",
+      "size": 36348
+    },
+    {
+      "id": "venezuela",
+      "name": "Venezuela",
+      "filename": "venezuela.svg",
+      "category": "country",
+      "size": 48307
+    },
+    {
+      "id": "vietnam",
+      "name": "Vietnam",
+      "filename": "vietnam.svg",
+      "category": "country",
+      "size": 183606
+    },
+    {
+      "id": "yemen",
+      "name": "Yemen",
+      "filename": "yemen.svg",
+      "category": "country",
+      "size": 40584
+    },
+    {
+      "id": "zambia",
+      "name": "Zambia",
+      "filename": "zambia.svg",
+      "category": "country",
+      "size": 65014
+    },
+    {
+      "id": "zimbabwe",
+      "name": "Zimbabwe",
+      "filename": "zimbabwe.svg",
+      "category": "country",
+      "size": 54429
+    },
+    {
+      "id": "usa-ca",
+      "name": "California",
+      "filename": "usa-ca.svg",
+      "category": "usa",
+      "size": 45449
+    },
+    {
+      "id": "usa-tx",
+      "name": "Texas",
+      "filename": "usa-tx.svg",
+      "category": "usa",
+      "size": 118502
+    },
+    {
+      "id": "usa-ny",
+      "name": "New York",
+      "filename": "usa-ny.svg",
+      "category": "usa",
+      "size": 34434
+    },
+    {
+      "id": "usa-fl",
+      "name": "Florida",
+      "filename": "usa-fl.svg",
+      "category": "usa",
+      "size": 39179
+    },
+    {
+      "id": "usa-il",
+      "name": "Illinois",
+      "filename": "usa-il.svg",
+      "category": "usa",
+      "size": 40515
+    },
+    {
+      "id": "usa-pa",
+      "name": "Pennsylvania",
+      "filename": "usa-pa.svg",
+      "category": "usa",
+      "size": 36451
+    },
+    {
+      "id": "usa-oh",
+      "name": "Ohio",
+      "filename": "usa-oh.svg",
+      "category": "usa",
+      "size": 40699
+    },
+    {
+      "id": "usa-ga",
+      "name": "Georgia",
+      "filename": "usa-ga.svg",
+      "category": "usa",
+      "size": 75221
+    },
+    {
+      "id": "usa-mi",
+      "name": "Michigan",
+      "filename": "usa-mi.svg",
+      "category": "usa",
+      "size": 40822
+    },
+    {
+      "id": "usa-nc",
+      "name": "North Carolina",
+      "filename": "usa-nc.svg",
+      "category": "usa",
+      "size": 51977
+    },
+    {
+      "id": "usa-nj",
+      "name": "New Jersey",
+      "filename": "usa-nj.svg",
+      "category": "usa",
+      "size": 13999
+    },
+    {
+      "id": "usa-va",
+      "name": "Virginia",
+      "filename": "usa-va.svg",
+      "category": "usa",
+      "size": 69769
+    },
+    {
+      "id": "usa-wa",
+      "name": "Washington",
+      "filename": "usa-wa.svg",
+      "category": "usa",
+      "size": 29361
+    },
+    {
+      "id": "usa-ma",
+      "name": "Massachusetts",
+      "filename": "usa-ma.svg",
+      "category": "usa",
+      "size": 10732
+    },
+    {
+      "id": "usa-az",
+      "name": "Arizona",
+      "filename": "usa-az.svg",
+      "category": "usa",
+      "size": 12419
+    },
+    {
+      "id": "usa-in",
+      "name": "Indiana",
+      "filename": "usa-in.svg",
+      "category": "usa",
+      "size": 40468
+    },
+    {
+      "id": "usa-tn",
+      "name": "Tennessee",
+      "filename": "usa-tn.svg",
+      "category": "usa",
+      "size": 47874
+    },
+    {
+      "id": "usa-mo",
+      "name": "Missouri",
+      "filename": "usa-mo.svg",
+      "category": "usa",
+      "size": 53471
+    },
+    {
+      "id": "usa-md",
+      "name": "Maryland",
+      "filename": "usa-md.svg",
+      "category": "usa",
+      "size": 15325
+    },
+    {
+      "id": "usa-wi",
+      "name": "Wisconsin",
+      "filename": "usa-wi.svg",
+      "category": "usa",
+      "size": 34854
+    },
+    {
+      "id": "usa-mn",
+      "name": "Minnesota",
+      "filename": "usa-mn.svg",
+      "category": "usa",
+      "size": 43004
+    },
+    {
+      "id": "usa-co",
+      "name": "Colorado",
+      "filename": "usa-co.svg",
+      "category": "usa",
+      "size": 35233
+    },
+    {
+      "id": "usa-al",
+      "name": "Alabama",
+      "filename": "usa-al.svg",
+      "category": "usa",
+      "size": 38110
+    },
+    {
+      "id": "usa-sc",
+      "name": "South Carolina",
+      "filename": "usa-sc.svg",
+      "category": "usa",
+      "size": 28743
+    },
+    {
+      "id": "usa-la",
+      "name": "Louisiana",
+      "filename": "usa-la.svg",
+      "category": "usa",
+      "size": 39982
+    },
+    {
+      "id": "usa-ky",
+      "name": "Kentucky",
+      "filename": "usa-ky.svg",
+      "category": "usa",
+      "size": 57011
+    },
+    {
+      "id": "usa-or",
+      "name": "Oregon",
+      "filename": "usa-or.svg",
+      "category": "usa",
+      "size": 26290
+    },
+    {
+      "id": "usa-ok",
+      "name": "Oklahoma",
+      "filename": "usa-ok.svg",
+      "category": "usa",
+      "size": 40137
+    },
+    {
+      "id": "usa-ct",
+      "name": "Connecticut",
+      "filename": "usa-ct.svg",
+      "category": "usa",
+      "size": 6374
+    },
+    {
+      "id": "usa-ut",
+      "name": "Utah",
+      "filename": "usa-ut.svg",
+      "category": "usa",
+      "size": 19793
+    },
+    {
+      "id": "usa-ia",
+      "name": "Iowa",
+      "filename": "usa-ia.svg",
+      "category": "usa",
+      "size": 41055
+    },
+    {
+      "id": "usa-nv",
+      "name": "Nevada",
+      "filename": "usa-nv.svg",
+      "category": "usa",
+      "size": 12528
+    },
+    {
+      "id": "usa-ar",
+      "name": "Arkansas",
+      "filename": "usa-ar.svg",
+      "category": "usa",
+      "size": 40483
+    },
+    {
+      "id": "usa-ms",
+      "name": "Mississippi",
+      "filename": "usa-ms.svg",
+      "category": "usa",
+      "size": 38171
+    },
+    {
+      "id": "usa-ks",
+      "name": "Kansas",
+      "filename": "usa-ks.svg",
+      "category": "usa",
+      "size": 43412
+    },
+    {
+      "id": "usa-nm",
+      "name": "New Mexico",
+      "filename": "usa-nm.svg",
+      "category": "usa",
+      "size": 20527
+    },
+    {
+      "id": "usa-ne",
+      "name": "Nebraska",
+      "filename": "usa-ne.svg",
+      "category": "usa",
+      "size": 40290
+    },
+    {
+      "id": "usa-wv",
+      "name": "West Virginia",
+      "filename": "usa-wv.svg",
+      "category": "usa",
+      "size": 29167
+    },
+    {
+      "id": "usa-id",
+      "name": "Idaho",
+      "filename": "usa-id.svg",
+      "category": "usa",
+      "size": 32391
+    },
+    {
+      "id": "usa-hi",
+      "name": "Hawaii",
+      "filename": "usa-hi.svg",
+      "category": "usa",
+      "size": 5131
+    },
+    {
+      "id": "usa-nh",
+      "name": "New Hampshire",
+      "filename": "usa-nh.svg",
+      "category": "usa",
+      "size": 8049
+    },
+    {
+      "id": "usa-me",
+      "name": "Maine",
+      "filename": "usa-me.svg",
+      "category": "usa",
+      "size": 15505
+    },
+    {
+      "id": "usa-ri",
+      "name": "Rhode Island",
+      "filename": "usa-ri.svg",
+      "category": "usa",
+      "size": 4110
+    },
+    {
+      "id": "usa-mt",
+      "name": "Montana",
+      "filename": "usa-mt.svg",
+      "category": "usa",
+      "size": 42581
+    },
+    {
+      "id": "usa-de",
+      "name": "Delaware",
+      "filename": "usa-de.svg",
+      "category": "usa",
+      "size": 3512
+    },
+    {
+      "id": "usa-sd",
+      "name": "South Dakota",
+      "filename": "usa-sd.svg",
+      "category": "usa",
+      "size": 33656
+    },
+    {
+      "id": "usa-nd",
+      "name": "North Dakota",
+      "filename": "usa-nd.svg",
+      "category": "usa",
+      "size": 28293
+    },
+    {
+      "id": "usa-ak",
+      "name": "Alaska",
+      "filename": "usa-ak.svg",
+      "category": "usa",
+      "size": 31684
+    },
+    {
+      "id": "usa-vt",
+      "name": "Vermont",
+      "filename": "usa-vt.svg",
+      "category": "usa",
+      "size": 9432
+    },
+    {
+      "id": "usa-wy",
+      "name": "Wyoming",
+      "filename": "usa-wy.svg",
+      "category": "usa",
+      "size": 15462
+    }
+  ]
+}
