@@ -1,4 +1,5 @@
 {
+  "airGappedMode": false,
   "appInsightsEnabled": true,
   "appInsightsConnectionString": "InstrumentationKey=29ca4f91-3075-433e-8251-b28fe6eb63ef;IngestionEndpoint=https://eastus2-3.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus2.livediagnostics.monitor.azure.com/;ApplicationId=85297005-a03e-4d8f-b042-6e10e5cd8eb1",
   "includeUsernameForEntra": true
