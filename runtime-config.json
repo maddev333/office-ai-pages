@@ -7,5 +7,9 @@
   "agentTuning": {
     "azure": {},
     "openai": {}
+  },
+  "agentLoop": {
+    "enableParallelTools": true,
+    "maxParallelReadTools": 3
   }
 }
