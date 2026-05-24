@@ -11,5 +11,6 @@
   "agentLoop": {
     "enableParallelTools": true,
     "maxParallelReadTools": 3
-  }
+  },
+  "streamingToolSinks": true
 }
