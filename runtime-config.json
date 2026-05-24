@@ -12,5 +12,5 @@
     "enableParallelTools": true,
     "maxParallelReadTools": 3
   },
-  "streamingToolSinks": true
+  "streamingToolSinks": false
 }
