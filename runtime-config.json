@@ -6,7 +6,8 @@
   "captureUserInput": true,
   "agentTuning": {
     "azure": {},
-    "openai": {}
+    "openai": {},
+    "mcpLazyLoading": false
   },
   "agentLoop": {
     "enableParallelTools": true,
