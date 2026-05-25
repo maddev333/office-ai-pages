@@ -5,9 +5,18 @@
   "includeUsernameForEntra": true,
   "captureUserInput": true,
   "agentTuning": {
-    "azure": {},
-    "openai": {},
-    "mcpLazyLoading": false
+    "azure": {
+      "maxContextTokens": 256000,
+      "maxOutputTokens": 64000
+    },
+    "openai": {
+      "maxContextTokens": 256000,
+      "maxOutputTokens": 64000
+    },
+    "mcpLazyLoading": false,
+    "freshContextPerTurn": true,
+    "contextSummaryMaxChars": 10000,
+    "writeContextSummaryToWiki": false
   },
   "agentLoop": {
     "enableParallelTools": true,
