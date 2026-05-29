@@ -14,7 +14,7 @@
       "maxOutputTokens": 64000
     },
     "mcpLazyLoading": false,
-    "freshContextPerTurn": true,
+    "freshContextPerTurn": false,
     "contextSummaryMaxChars": 10000,
     "writeContextSummaryToWiki": false
   },
