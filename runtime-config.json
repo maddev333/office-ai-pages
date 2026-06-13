@@ -6,13 +6,13 @@
   "captureUserInput": true,
   "agentTuning": {
     "azure": {
-      "maxContextTokens": 256000,
+      "maxContextTokens": 64000,
       "maxOutputTokens": 8192,
       "workflowMaxRequestsPerMinute": 20,
       "workflowMaxConcurrent": 1
     },
     "openai": {
-      "maxContextTokens": 256000,
+      "maxContextTokens": 64000,
       "maxOutputTokens": 8192,
       "workflowMaxRequestsPerMinute": 20,
       "workflowMaxConcurrent": 1
