@@ -26,5 +26,16 @@
     "enableParallelTools": true,
     "maxParallelReadTools": 3
   },
-  "streamingToolSinks": true
+  "streamingToolSinks": true,
+  "providerDefaults": {
+    "provider": "azure",
+    "azureEndpoint": "https://admin-md33fosu-eastus2.cognitiveservices.azure.com/",
+    "azureDeploymentName": "gpt-5.4",
+    "azureApiMode": "chat-completions",
+    "useEntraId": true,
+    "azureClientId": "6813db1d-7596-4f97-9060-ccbe4cc57ec1",
+    "azureTenantId": "5a473923-b039-4a6d-b236-16c05b9d6420",
+    "openaiBaseUrl": "",
+    "documentIntelligenceEndpoint": ""
+  }
 }
