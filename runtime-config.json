@@ -6,17 +6,19 @@
   "captureUserInput": true,
   "agentTuning": {
     "azure": {
-      "maxContextTokens": 64000,
+      "apiVersion": "2024-10-21",
+      "maxContextTokens": 32000,
       "maxOutputTokens": 8192,
       "workflowMaxRequestsPerMinute": 20,
       "workflowMaxConcurrent": 1
     },
     "openai": {
-      "maxContextTokens": 64000,
+      "maxContextTokens": 32000,
       "maxOutputTokens": 8192,
       "workflowMaxRequestsPerMinute": 20,
       "workflowMaxConcurrent": 1
     },
+    "wordMaxOutputTokens": 4096,
     "mcpLazyLoading": false,
     "freshContextPerTurn": false,
     "contextSummaryMaxChars": 10000,
