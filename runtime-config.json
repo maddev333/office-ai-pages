@@ -31,6 +31,8 @@
     "writeContextSummaryToWiki": false
   },
   "agentLoop": {
+    "maxIterations": 100,
+    "maxWallClockMs": 1200000,
     "enableParallelTools": true,
     "maxParallelReadTools": 3,
     "toolExecutionTimeoutMs": 180000
