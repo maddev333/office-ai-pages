@@ -10,13 +10,19 @@
       "maxContextTokens": 32000,
       "maxOutputTokens": 8192,
       "workflowMaxRequestsPerMinute": 20,
-      "workflowMaxConcurrent": 1
+      "workflowMaxConcurrent": 1,
+      "requestTimeoutMs": 300000,
+      "streamIdleTimeoutMs": 180000,
+      "meaningfulStreamTimeoutMs": 240000
     },
     "openai": {
       "maxContextTokens": 32000,
       "maxOutputTokens": 8192,
       "workflowMaxRequestsPerMinute": 20,
-      "workflowMaxConcurrent": 1
+      "workflowMaxConcurrent": 1,
+      "requestTimeoutMs": 300000,
+      "streamIdleTimeoutMs": 180000,
+      "meaningfulStreamTimeoutMs": 240000
     },
     "wordMaxOutputTokens": 4096,
     "mcpLazyLoading": false,
@@ -26,7 +32,8 @@
   },
   "agentLoop": {
     "enableParallelTools": true,
-    "maxParallelReadTools": 3
+    "maxParallelReadTools": 3,
+    "toolExecutionTimeoutMs": 180000
   },
   "streamingToolSinks": true,
   "providerDefaults": {
