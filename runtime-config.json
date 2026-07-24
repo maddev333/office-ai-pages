@@ -29,14 +29,19 @@
     "mcpLazyLoading": true,
     "freshContextPerTurn": false,
     "contextSummaryMaxChars": 10000,
-    "writeContextSummaryToWiki": false
+    "writeContextSummaryToWiki": false,
+    "toolResultOffloadEnabled": true,
+    "toolResultOffloadMaxTokens": 6000
   },
   "agentLoop": {
     "maxIterations": 100,
     "maxWallClockMs": 1200000,
     "enableParallelTools": true,
     "maxParallelReadTools": 3,
-    "toolExecutionTimeoutMs": 180000
+    "toolExecutionTimeoutMs": 180000,
+    "toolApprovalEnabled": false,
+    "childAgentsEnabled": false,
+    "childAgentMaxIterations": 10
   },
   "streamingToolSinks": true,
   "providerDefaults": {
