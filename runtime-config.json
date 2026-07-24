@@ -40,7 +40,7 @@
     "maxParallelReadTools": 3,
     "toolExecutionTimeoutMs": 180000,
     "toolApprovalEnabled": false,
-    "childAgentsEnabled": false,
+    "childAgentsEnabled": true,
     "childAgentMaxIterations": 10
   },
   "streamingToolSinks": true,
