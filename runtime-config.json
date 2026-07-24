@@ -1,5 +1,6 @@
 {
   "airGappedMode": false,
+  "azureEnvironment": "internet",
   "appInsightsEnabled": true,
   "appInsightsConnectionString": "InstrumentationKey=29ca4f91-3075-433e-8251-b28fe6eb63ef;IngestionEndpoint=https://eastus2-3.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus2.livediagnostics.monitor.azure.com/;ApplicationId=85297005-a03e-4d8f-b042-6e10e5cd8eb1",
   "includeUsernameForEntra": true,
@@ -25,7 +26,7 @@
       "meaningfulStreamTimeoutMs": 240000
     },
     "wordMaxOutputTokens": 4096,
-    "mcpLazyLoading": false,
+    "mcpLazyLoading": true,
     "freshContextPerTurn": false,
     "contextSummaryMaxChars": 10000,
     "writeContextSummaryToWiki": false
@@ -46,6 +47,7 @@
     "useEntraId": true,
     "azureClientId": "6813db1d-7596-4f97-9060-ccbe4cc57ec1",
     "azureTenantId": "5a473923-b039-4a6d-b236-16c05b9d6420",
+    "azureEntraCloud": "commercial",
     "openaiBaseUrl": "",
     "documentIntelligenceEndpoint": ""
   }
