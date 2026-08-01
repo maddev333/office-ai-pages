@@ -7,21 +7,21 @@
   "captureUserInput": true,
   "agentTuning": {
     "azure": {
-      "apiVersion": "2024-10-21",
-      "maxContextTokens": 32000,
-      "maxOutputTokens": 8192,
+      "apiVersion": "2025-01-01-preview",
+      "maxContextTokens": 200000,
+      "maxOutputTokens": 32000,
       "workflowMaxRequestsPerMinute": 20,
       "workflowMaxConcurrent": 1,
-      "requestTimeoutMs": 300000,
+      "requestTimeoutMs": 600000,
       "streamIdleTimeoutMs": 180000,
       "meaningfulStreamTimeoutMs": 240000
     },
     "openai": {
-      "maxContextTokens": 32000,
-      "maxOutputTokens": 8192,
+      "maxContextTokens": 200000,
+      "maxOutputTokens": 32000,
       "workflowMaxRequestsPerMinute": 20,
       "workflowMaxConcurrent": 1,
-      "requestTimeoutMs": 300000,
+      "requestTimeoutMs": 600000,
       "streamIdleTimeoutMs": 180000,
       "meaningfulStreamTimeoutMs": 240000
     },
@@ -31,17 +31,17 @@
     "contextSummaryMaxChars": 10000,
     "writeContextSummaryToWiki": false,
     "toolResultOffloadEnabled": true,
-    "toolResultOffloadMaxTokens": 6000
+    "toolResultOffloadMaxTokens": 20000
   },
   "agentLoop": {
-    "maxIterations": 100,
-    "maxWallClockMs": 1200000,
+    "maxIterations": 250,
+    "maxWallClockMs": 3600000,
     "enableParallelTools": true,
-    "maxParallelReadTools": 3,
+    "maxParallelReadTools": 6,
     "toolExecutionTimeoutMs": 180000,
     "toolApprovalEnabled": false,
     "childAgentsEnabled": true,
-    "childAgentMaxIterations": 10
+    "childAgentMaxIterations": 25
   },
   "streamingToolSinks": true,
   "providerDefaults": {
