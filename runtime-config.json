@@ -44,6 +44,12 @@
     "childAgentMaxIterations": 25
   },
   "streamingToolSinks": true,
+  "webgpu": {
+    "enabled": true,
+    "modelId": "LiquidAI/LFM2.5-2.6B-ONNX",
+    "modelRevision": "66826372fd4fa166f53be0371c9315745c07cace",
+    "maxToolSchemaTokens": 6000
+  },
   "providerDefaults": {
     "provider": "azure",
     "azureEndpoint": "https://admin-md33fosu-eastus2.cognitiveservices.azure.com/",
