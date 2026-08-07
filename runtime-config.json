@@ -48,7 +48,8 @@
     "enabled": true,
     "modelId": "LiquidAI/LFM2.5-2.6B-ONNX",
     "modelRevision": "66826372fd4fa166f53be0371c9315745c07cace",
-    "maxToolSchemaTokens": 6000
+    "maxToolSchemaTokens": 6000,
+    "enableMcpTools": true
   },
   "providerDefaults": {
     "provider": "azure",
