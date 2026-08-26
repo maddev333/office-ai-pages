@@ -27,6 +27,26 @@
     },
     "wordMaxOutputTokens": 4096,
     "mcpLazyLoading": true,
+    "mcpCatalog": {
+      "enabled": true,
+      "endpoint": "https://mcpstellaris-dev-apim.azure-api.net/mcp",
+      "transport": "streamable_http",
+      "auth": {
+        "type": "entra",
+        "clientId": "6813db1d-7596-4f97-9060-ccbe4cc57ec1",
+        "tenantId": "5a473923-b039-4a6d-b236-16c05b9d6420",
+        "scopes": [
+          "api://mcpstellaris-dev-api-wbhpuwneuqeig/.default"
+        ]
+      },
+      "trustedGatewayOrigins": [],
+      "reuseCatalogEntraForGateway": false,
+      "allowNonProduction": false,
+      "defaultEnvironment": "production",
+      "cacheTtlMs": 900000,
+      "maxSearchResults": 50,
+      "maxConcurrentConnections": 3
+    },
     "freshContextPerTurn": false,
     "contextSummaryMaxChars": 10000,
     "writeContextSummaryToWiki": false,
