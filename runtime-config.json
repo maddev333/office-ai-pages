@@ -71,6 +71,9 @@
     "maxContextTokens": 32000,
     "maxOutputTokens": 1024,
     "maxToolSchemaTokens": 6000,
+    "maxIterations": 20,
+    "maxWallClockMs": 300000,
+    "maxConsecutiveToolFailures": 4,
     "enableMcpTools": true
   },
   "providerDefaults": {
