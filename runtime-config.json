@@ -39,7 +39,9 @@
           "api://mcpstellaris-dev-api-wbhpuwneuqeig/.default"
         ]
       },
-      "trustedGatewayOrigins": [],
+      "trustedGatewayOrigins": [
+        "https://mcpstellaris-dev-apim.azure-api.net"
+      ],
       "reuseCatalogEntraForGateway": false,
       "allowNonProduction": false,
       "defaultEnvironment": "production",
