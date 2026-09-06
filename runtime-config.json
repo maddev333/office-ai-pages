@@ -36,7 +36,7 @@
         "clientId": "6813db1d-7596-4f97-9060-ccbe4cc57ec1",
         "tenantId": "5a473923-b039-4a6d-b236-16c05b9d6420",
         "scopes": [
-          "api://mcpstellaris-dev-api-wbhpuwneuqeig/.default"
+          "api://mcpstellaris-dev-api-wbhpuwneuqeig/catalog.read"
         ]
       },
       "trustedGatewayOrigins": [
@@ -68,8 +68,8 @@
   "streamingToolSinks": true,
   "webgpu": {
     "enabled": true,
-    "modelId": "onnx-community/LFM2-350M-ONNX",
-    "modelRevision": "1888d143147cd4f17d4b75a60f9bc8a568e2342d",
+    "modelId": "LiquidAI/LFM2.5-2.6B-ONNX",
+    "modelRevision": "66826372fd4fa166f53be0371c9315745c07cace",
     "maxContextTokens": 32000,
     "maxOutputTokens": 1024,
     "maxToolSchemaTokens": 6000,
