@@ -29,7 +29,7 @@
     "mcpLazyLoading": true,
     "mcpOAuth": {
       "enabled": true,
-      "relayEndpoint": "https://ca-officeai-mcp-relay.graybeach-de10c886.eastus2.azurecontainerapps.io/mcp-relay"
+      "relayEndpoint": "https://officeai-mcp-relay-win-6ca8e373.azurewebsites.net/mcp-relay"
     },
     "mcpCatalog": {
       "enabled": true,
