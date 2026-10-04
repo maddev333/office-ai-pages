@@ -27,6 +27,10 @@
     },
     "wordMaxOutputTokens": 4096,
     "mcpLazyLoading": true,
+    "mcpOAuth": {
+      "enabled": true,
+      "relayEndpoint": "https://ca-officeai-mcp-relay.graybeach-de10c886.eastus2.azurecontainerapps.io/mcp-relay"
+    },
     "mcpCatalog": {
       "enabled": true,
       "endpoint": "https://mcpstellaris-dev-apim.azure-api.net/mcp",
