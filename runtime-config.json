@@ -27,6 +27,9 @@
     },
     "wordMaxOutputTokens": 4096,
     "mcpLazyLoading": true,
+    "mcpToolSelectionEnabled": true,
+    "mcpMaxToolSchemaTokens": 8000,
+    "compactPlannerContext": true,
     "mcpOAuth": {
       "enabled": true,
       "relayEndpoint": "https://officeai-mcp-relay-win-6ca8e373.azurewebsites.net/mcp-relay"
@@ -64,6 +67,10 @@
     "maxWallClockMs": 3600000,
     "enableParallelTools": true,
     "maxParallelReadTools": 6,
+    "maxParallelReadToolsPerMcpConnection": 3,
+    "maxProviderAttempts": 255,
+    "noProgressDetectionEnabled": true,
+    "maxNoProgressIterations": 3,
     "toolExecutionTimeoutMs": 180000,
     "toolApprovalEnabled": false,
     "childAgentsEnabled": true,
