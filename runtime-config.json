@@ -74,6 +74,7 @@
     "maxProviderAttempts": 255,
     "noProgressDetectionEnabled": true,
     "maxNoProgressIterations": 3,
+    "maxProcessingRepairs": 2,
     "toolExecutionTimeoutMs": 180000,
     "toolApprovalEnabled": false,
     "childAgentsEnabled": true,
