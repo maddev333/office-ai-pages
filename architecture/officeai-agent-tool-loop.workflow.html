@@ -5125,15 +5125,15 @@
         <text data-detail="fine" x="406" y="275" class="t-backend" font-size="7" text-anchor="middle">fallback-safe</text>
         </g>
 
-        <g id="node-model-turn" data-node-id="model-turn" data-node-label="Budgeted Model Turn" tabindex="0" role="button" aria-label="Focus Budgeted Model Turn, stream text + tool calls, Agent FSM › Budgeted model cycle › Plan + model" aria-pressed="false" data-node-kind="cloud" data-node-sublabel="stream text + tool calls" data-node-context="Agent FSM › Budgeted model cycle › Plan + model">
-          <title>Budgeted Model Turn · stream text + tool calls · Agent FSM › Budgeted model cycle › Plan + model</title>
+        <g id="node-model-turn" data-node-id="model-turn" data-node-label="Budgeted Model Turn" tabindex="0" role="button" aria-label="Focus Budgeted Model Turn, input cap · RPM/TPM · SSE, Agent FSM › Budgeted model cycle › Plan + model" aria-pressed="false" data-node-kind="cloud" data-node-sublabel="input cap · RPM/TPM · SSE" data-node-context="Agent FSM › Budgeted model cycle › Plan + model">
+          <title>Budgeted Model Turn · input cap · RPM/TPM · SSE · Agent FSM › Budgeted model cycle › Plan + model</title>
           <rect x="570.8" y="227" width="150" height="52" rx="6" class="c-mask"/>
           <rect x="570.8" y="227" width="150" height="52" rx="6" class="c-cloud" data-animate="node" style="--step:3" stroke-width="1.5"/>
           <g aria-hidden="true" data-semantic-sigil="cloud" class="semantic-sigil s-cloud" transform="translate(576.8 233) scale(0.6875)">
             <path d="M4.3 12.5h7.3a2.4 2.4 0 0 0 .2-4.8 4 4 0 0 0-7.5-1.3A3.1 3.1 0 0 0 4.3 12.5Z"/>
           </g>
           <text data-node-label="" data-detail-anchor="" x="645.8" y="248" class="t-primary" font-size="11" font-weight="600" text-anchor="middle">Budgeted Model Turn</text>
-          <text data-detail="context" x="645.8" y="265" class="t-muted" font-size="8" text-anchor="middle">stream text + tool calls</text>
+          <text data-detail="context" x="645.8" y="265" class="t-muted" font-size="8" text-anchor="middle">input cap · RPM/TPM · SSE</text>
         </g>
 
         <g id="node-decide-action" data-node-id="decide-action" data-node-label="decide()" tabindex="0" role="button" aria-label="Focus decide(), execute · nudge · finalize, Agent FSM › Budgeted model cycle › Decide + act" aria-pressed="false" data-node-kind="backend" data-node-sublabel="execute · nudge · finalize" data-node-tag="pure rules" data-node-context="Agent FSM › Budgeted model cycle › Decide + act">
@@ -5171,8 +5171,8 @@
           <text data-detail="context" x="406" y="397" class="t-muted" font-size="8" text-anchor="middle">ordered · large → VFS ref</text>
         </g>
 
-        <g id="node-batch-preflight" data-node-id="batch-preflight" data-node-label="Batch Preflight" tabindex="0" role="button" aria-label="Focus Batch Preflight, limits + policy decisions, Policy &amp; Tool Execution › Bounded guardrails › Plan + model" aria-pressed="false" data-node-kind="security" data-node-sublabel="limits + policy decisions" data-node-context="Policy &amp; Tool Execution › Bounded guardrails › Plan + model">
-          <title>Batch Preflight · limits + policy decisions · Policy &amp; Tool Execution › Bounded guardrails › Plan + model</title>
+        <g id="node-batch-preflight" data-node-id="batch-preflight" data-node-label="Batch Preflight" tabindex="0" role="button" aria-label="Focus Batch Preflight, input checks + policies, Policy &amp; Tool Execution › Bounded guardrails › Plan + model" aria-pressed="false" data-node-kind="security" data-node-sublabel="input checks + policies" data-node-context="Policy &amp; Tool Execution › Bounded guardrails › Plan + model">
+          <title>Batch Preflight · input checks + policies · Policy &amp; Tool Execution › Bounded guardrails › Plan + model</title>
           <rect x="574.8" y="359" width="142" height="52" rx="6" class="c-mask"/>
           <rect x="574.8" y="359" width="142" height="52" rx="6" class="c-security" data-animate="node" style="--step:12" stroke-width="1.5"/>
           <g aria-hidden="true" data-semantic-sigil="security" class="semantic-sigil s-security" transform="translate(580.8 365) scale(0.6875)">
@@ -5180,7 +5180,7 @@
             <path d="m5.8 8 1.5 1.5 3-3"/>
           </g>
           <text data-node-label="" data-detail-anchor="" x="645.8" y="380" class="t-primary" font-size="11" font-weight="600" text-anchor="middle">Batch Preflight</text>
-          <text data-detail="context" x="645.8" y="397" class="t-muted" font-size="8" text-anchor="middle">limits + policy decisions</text>
+          <text data-detail="context" x="645.8" y="397" class="t-muted" font-size="8" text-anchor="middle">input checks + policies</text>
         </g>
 
         <g id="node-approval-gate" data-node-id="approval-gate" data-node-label="Approval Gate" tabindex="0" role="button" aria-label="Focus Approval Gate, approve · edit · reject, Policy &amp; Tool Execution › Bounded guardrails › Decide + act" aria-pressed="false" data-node-kind="security" data-node-sublabel="approve · edit · reject" data-node-tag="optional" data-node-context="Policy &amp; Tool Execution › Bounded guardrails › Decide + act">
@@ -5196,8 +5196,8 @@
         <text data-detail="fine" x="882.5999999999999" y="407" class="t-security" font-size="7" text-anchor="middle">optional</text>
         </g>
 
-        <g id="node-execute-tools" data-node-id="execute-tools" data-node-label="Execute Tools" tabindex="0" role="button" aria-label="Focus Execute Tools, serial or bounded reads, Policy &amp; Tool Execution › Bounded guardrails › Decide + act" aria-pressed="false" data-node-kind="messagebus" data-node-sublabel="serial or bounded reads" data-node-tag="typed outcomes" data-node-context="Policy &amp; Tool Execution › Bounded guardrails › Decide + act">
-          <title>Execute Tools · serial or bounded reads · Policy &amp; Tool Execution › Bounded guardrails › Decide + act · typed outcomes</title>
+        <g id="node-execute-tools" data-node-id="execute-tools" data-node-label="Execute Tools" tabindex="0" role="button" aria-label="Focus Execute Tools, data CLI · host tools, Policy &amp; Tool Execution › Bounded guardrails › Decide + act" aria-pressed="false" data-node-kind="messagebus" data-node-sublabel="data CLI · host tools" data-node-tag="typed outcomes" data-node-context="Policy &amp; Tool Execution › Bounded guardrails › Decide + act">
+          <title>Execute Tools · data CLI · host tools · Policy &amp; Tool Execution › Bounded guardrails › Decide + act · typed outcomes</title>
           <rect x="1010" y="351" width="144" height="68" rx="6" class="c-mask"/>
           <rect x="1010" y="351" width="144" height="68" rx="6" class="c-messagebus" data-animate="node" style="--step:12" stroke-width="1.5"/>
           <g aria-hidden="true" data-semantic-sigil="messagebus" class="semantic-sigil s-messagebus" transform="translate(1016 357) scale(0.6875)">
@@ -5207,7 +5207,7 @@
             <circle cx="7" cy="11.5" r="1" class="sigil-fill"/>
           </g>
           <text data-node-label="" data-detail-anchor="" x="1082" y="372" class="t-primary" font-size="11" font-weight="600" text-anchor="middle">Execute Tools</text>
-          <text data-detail="context" x="1082" y="389" class="t-muted" font-size="8" text-anchor="middle">serial or bounded reads</text>
+          <text data-detail="context" x="1082" y="389" class="t-muted" font-size="8" text-anchor="middle">data CLI · host tools</text>
         <text data-detail="fine" x="1082" y="407" class="t-messagebus" font-size="7" text-anchor="middle">typed outcomes</text>
         </g>
 

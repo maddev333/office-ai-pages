@@ -9,7 +9,8 @@
     "azure": {
       "apiVersion": "2025-01-01-preview",
       "maxContextTokens": 200000,
-      "maxOutputTokens": 32000,
+      "maxInputTokens": 32000,
+      "maxOutputTokens": 8192,
       "workflowMaxRequestsPerMinute": 20,
       "workflowMaxConcurrent": 1,
       "requestTimeoutMs": 600000,
@@ -18,7 +19,8 @@
     },
     "openai": {
       "maxContextTokens": 200000,
-      "maxOutputTokens": 32000,
+      "maxInputTokens": 32000,
+      "maxOutputTokens": 8192,
       "workflowMaxRequestsPerMinute": 20,
       "workflowMaxConcurrent": 1,
       "requestTimeoutMs": 600000,
@@ -61,7 +63,7 @@
     "contextSummaryMaxChars": 10000,
     "writeContextSummaryToWiki": false,
     "toolResultOffloadEnabled": true,
-    "toolResultOffloadMaxTokens": 20000
+    "toolResultOffloadMaxTokens": 6000
   },
   "agentLoop": {
     "maxIterations": 250,
