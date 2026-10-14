@@ -32,6 +32,8 @@
     "mcpToolSelectionEnabled": true,
     "mcpMaxToolSchemaTokens": 8000,
     "compactPlannerContext": true,
+    "semanticLayerEnabled": true,
+    "ocrEnabled": true,
     "mcpOAuth": {
       "enabled": true,
       "relayEndpoint": "https://officeai-mcp-relay-win-6ca8e373.azurewebsites.net/mcp-relay"
